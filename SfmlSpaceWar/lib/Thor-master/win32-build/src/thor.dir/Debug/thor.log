@@ -1,0 +1,33 @@
+﻿  Building Custom Rule D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/src/CMakeLists.txt
+  Action.cpp
+  ActionOperations.cpp
+  Affectors.cpp
+  Arrow.cpp
+  BigSprite.cpp
+  BigTexture.cpp
+  CallbackTimer.cpp
+  ColorAnimation.cpp
+  ColorGradient.cpp
+  ConcaveShape.cpp
+  Connection.cpp
+  Distributions.cpp
+  Emitters.cpp
+  FadeAnimation.cpp
+  FrameAnimation.cpp
+  InputNames.cpp
+  Joystick.cpp
+  Particle.cpp
+  ParticleSystem.cpp
+  Random.cpp
+  Generating Code...
+  Compiling...
+  Shapes.cpp
+  StopWatch.cpp
+  Timer.cpp
+  ToString.cpp
+  Triangulation.cpp
+  Trigonometry.cpp
+  UniformAccess.cpp
+  Generating Code...
+     Creating library D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/win32-build/src/Debug/thor-d.lib and object D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/win32-build/src/Debug/thor-d.exp
+  thor.vcxproj -> D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\win32-build\src\Debug\thor-d.dll

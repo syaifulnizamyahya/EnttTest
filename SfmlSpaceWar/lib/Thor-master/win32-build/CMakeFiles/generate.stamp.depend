@@ -1,0 +1,29 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Compiler/MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Platform/WindowsPaths.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-debug.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/CMakeLists.txt
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/win32-build/CMakeFiles/3.16.1/CMakeCCompiler.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/win32-build/CMakeFiles/3.16.1/CMakeCXXCompiler.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/win32-build/CMakeFiles/3.16.1/CMakeRCCompiler.cmake
+D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/win32-build/CMakeFiles/3.16.1/CMakeSystem.cmake

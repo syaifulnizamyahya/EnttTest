@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Action.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\ActionOperations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Affectors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Arrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\BigSprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\BigTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\CallbackTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\ColorAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\ColorGradient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\ConcaveShape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Connection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Distributions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Emitters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\FadeAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\FrameAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\InputNames.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Joystick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Particle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\ParticleSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Shapes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\StopWatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\ToString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Triangulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\Trigonometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\UniformAccess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Project\Larian\SfmlSpaceWarEntt\SfmlSpaceWar\lib\Thor-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A040CB05-E225-392A-B1A6-06CC1BB8F1AE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

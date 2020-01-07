@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SfmlSpaceWarEntt/v16
+/x64/Debug
+/SfmlSpaceWar/Debug
+/SfmlSpaceWar/x64/Debug
+/SfmlSpaceWar/lib/entt-3.2.2/.github
+/.vs/SfmlEnttPlayground/v16

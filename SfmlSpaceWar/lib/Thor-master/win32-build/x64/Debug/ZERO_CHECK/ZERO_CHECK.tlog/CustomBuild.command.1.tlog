@@ -1,0 +1,10 @@
+^D:\PROJECT\LARIAN\SFMLSPACEWARENTT\SFMLSPACEWAR\LIB\THOR-MASTER\WIN32-BUILD\CMAKEFILES\4E02659167287C14E75D7A638E024C90\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SD:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master -BD:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/win32-build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Project/Larian/SfmlSpaceWarEntt/SfmlSpaceWar/lib/Thor-master/win32-build/thor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,60 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CMake", "CMake", "{50ABEC41-12B4-371F-BFAD-04CC3AB7BD74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Thor", "Thor", "{D471EC98-7043-3E1A-9A5A-41C56A164D63}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{60010384-C86F-38D4-8473-3846E6D30782}"
+	ProjectSection(ProjectDependencies) = postProject
+		{286B94D9-A6D0-3603-B290-B879EE43BBB2} = {286B94D9-A6D0-3603-B290-B879EE43BBB2}
+		{EF25B85B-FF1D-31CE-BC21-ABAFEE94B815} = {EF25B85B-FF1D-31CE-BC21-ABAFEE94B815}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "INSTALL", "INSTALL.vcxproj", "{455A735A-0972-3BAC-AD9F-72885724D9D0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{60010384-C86F-38D4-8473-3846E6D30782} = {60010384-C86F-38D4-8473-3846E6D30782}
+		{286B94D9-A6D0-3603-B290-B879EE43BBB2} = {286B94D9-A6D0-3603-B290-B879EE43BBB2}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{286B94D9-A6D0-3603-B290-B879EE43BBB2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thor", "src\thor.vcxproj", "{EF25B85B-FF1D-31CE-BC21-ABAFEE94B815}"
+	ProjectSection(ProjectDependencies) = postProject
+		{286B94D9-A6D0-3603-B290-B879EE43BBB2} = {286B94D9-A6D0-3603-B290-B879EE43BBB2}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60010384-C86F-38D4-8473-3846E6D30782}.Debug|x64.ActiveCfg = Debug|x64
+		{60010384-C86F-38D4-8473-3846E6D30782}.Debug|x64.Build.0 = Debug|x64
+		{60010384-C86F-38D4-8473-3846E6D30782}.Release|x64.ActiveCfg = Release|x64
+		{60010384-C86F-38D4-8473-3846E6D30782}.Release|x64.Build.0 = Release|x64
+		{455A735A-0972-3BAC-AD9F-72885724D9D0}.Debug|x64.ActiveCfg = Debug|x64
+		{455A735A-0972-3BAC-AD9F-72885724D9D0}.Release|x64.ActiveCfg = Release|x64
+		{286B94D9-A6D0-3603-B290-B879EE43BBB2}.Debug|x64.ActiveCfg = Debug|x64
+		{286B94D9-A6D0-3603-B290-B879EE43BBB2}.Debug|x64.Build.0 = Debug|x64
+		{286B94D9-A6D0-3603-B290-B879EE43BBB2}.Release|x64.ActiveCfg = Release|x64
+		{286B94D9-A6D0-3603-B290-B879EE43BBB2}.Release|x64.Build.0 = Release|x64
+		{EF25B85B-FF1D-31CE-BC21-ABAFEE94B815}.Debug|x64.ActiveCfg = Debug|x64
+		{EF25B85B-FF1D-31CE-BC21-ABAFEE94B815}.Debug|x64.Build.0 = Debug|x64
+		{EF25B85B-FF1D-31CE-BC21-ABAFEE94B815}.Release|x64.ActiveCfg = Release|x64
+		{EF25B85B-FF1D-31CE-BC21-ABAFEE94B815}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60010384-C86F-38D4-8473-3846E6D30782} = {50ABEC41-12B4-371F-BFAD-04CC3AB7BD74}
+		{455A735A-0972-3BAC-AD9F-72885724D9D0} = {50ABEC41-12B4-371F-BFAD-04CC3AB7BD74}
+		{286B94D9-A6D0-3603-B290-B879EE43BBB2} = {50ABEC41-12B4-371F-BFAD-04CC3AB7BD74}
+		{EF25B85B-FF1D-31CE-BC21-ABAFEE94B815} = {D471EC98-7043-3E1A-9A5A-41C56A164D63}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9ED8D9A-B03C-38FC-8461-3755ED943B7A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
